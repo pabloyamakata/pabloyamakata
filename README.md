@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo! 👋
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👨‍💻&text2=FullStack%20Developer&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👋%20Full%20Stack%20Developer%20👨‍💻&width=1050&height=400)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=radical">  
