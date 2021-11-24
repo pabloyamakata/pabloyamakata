@@ -1,10 +1,8 @@
-# Hi there, I'm Pablo! 👋
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👋%20Full%20Stack%20Developer%20👨‍💻&width=1050&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👋%20Full%20Stack%20Developer%20👨‍💻&width=1050&height=300)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=radical">  
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
+<img align="left" height=240 width="47%" src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=radical">  
+<img align="right" height=240 width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
 </div>
 
 <div style="display: flex; align-items: flex-end">
