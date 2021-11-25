@@ -3,7 +3,7 @@
 
 <div align="center">
 <img height=240 width=550 src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
-<img height=240 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
+<img height=270 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
 </div>
                                                                                                                                   
 <div align="center">
@@ -38,7 +38,7 @@
 </a>
 </div>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h2 align="center">Visitor's count :eyes:</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{pabloyamakata}/count.svg" alt="Pablo Yamakata's Visitor's Count" :: Visitor's Count" /></p>
 
