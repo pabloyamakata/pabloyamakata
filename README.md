@@ -5,6 +5,8 @@
 <img height=240 width=550 src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
 <img height=270 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
 </div>
+
+<h2 align="center">Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
                                                                                                                                   
 <div align="center">
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +23,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
-<h2 align="center">You can reach me at:</h2>
+<h2 align="center">You can reach me at: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <div align="center">
 <a href="https://www.facebook.com/pabloyamakata/">
