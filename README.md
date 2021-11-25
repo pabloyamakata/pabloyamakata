@@ -1,10 +1,12 @@
-<p align="center">
+<div align="center">
 <h1 align="center">Welcome to <a href="https://github.com/pabloyamakata">Pablo Yamakata</a>'s Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px></h1>
-</p>
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Developer...;and+I'm+a+continuous+learner.">
 </div>
+
+<br>
 
 <h2 align="center">My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
                                                                                                                                   
@@ -23,12 +25,16 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+<br>
+
 <h2 align="center">Some Stats 📈</h2>
 
 <div align="center">
 <img height=240 width=550 src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
 <img height=270 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
 </div>
+
+<br>
 
 <h2 align="center">You can reach me at... <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
@@ -47,8 +53,15 @@
 </a>
 </div>
 
-<div align="center">Fun fact about me: I like parrots! 🦜</div>
+<br>
+<br>
 
+<div align="center">
+<p>Fun fact about me: I like parrots! 🦜</p>
+</div>
+
+<br>
+  
 <div align="center">
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -64,9 +77,13 @@
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
 
+<br>
+
 <h2 align="center">Visitor's count :eyes:</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{pabloyamakata}/count.svg" alt="Pablo Yamakata's Visitor's Count" :: Visitor's Count" /></p>
+  
+<br>  
 
 <h2 align="center">Comeback anytime! <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="50"></h2>
 
