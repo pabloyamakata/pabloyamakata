@@ -30,8 +30,8 @@
 <h2 align="center">Some Stats 📈</h2>
 
 <div align="center">
-<img height=240 width=550 src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
-<img height=270 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
+<img height=230 width=550 src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
+<img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
 </div>
 
 <br>
@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-<p>Fun fact about me: I like parrots! 🦜</p>
+<p>Fun fact about me: I like parrots!</p>
 </div>
 
 <br>
