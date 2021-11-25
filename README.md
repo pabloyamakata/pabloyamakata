@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👋%20Full%20Stack%20Developer%20👨‍💻&width=1050&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👋%20Full%20Stack%20Developer%20👨‍💻&width=1050&height=200)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
 <img align="left" height=240 width="47%" src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
@@ -20,13 +20,26 @@
 
 <h2 align="center">You can reach me at:</h2>
 
-<a href="https://www.linkedin.com/in/pabloyamakata/">
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pablo Yamakata's LinkedIn Profile" height="30" width="30">
+<div align="center">
+<a href="https://www.facebook.com/pabloyamakata/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/pabloyamakata/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+</div>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{pabloyamakata}/count.svg" alt="Pablo Yamakata's Visitor's Count" :: Visitor's Count" /></p>
   
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<div>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">  
+</div>
 
