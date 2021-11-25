@@ -88,6 +88,6 @@
 <h2 align="center">Comeback anytime! <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="50"></h2>
 
 <div align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="150"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="140"/>
 </div>
 
