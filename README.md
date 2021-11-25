@@ -1,11 +1,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Pablo!%20👋%20Full%20Stack%20Developer%20👨‍💻&width=1050&height=200)](https://github.com/Akshay090/svg-banners)
 
-<div align="center">
-<img align="left" height=240 width="47%" src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
-<img align="right" height=240 width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
-</div>
 
-<div>                                                                                                                                   
+<img align="center" height=240 width="100%" src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
+<img align="center" height=240 width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
+                                                                                                                                  
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -16,7 +14,6 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</div>
 
 <h2 align="center">You can reach me at:</h2>
 
@@ -38,8 +35,10 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{pabloyamakata}/count.svg" alt="Pablo Yamakata's Visitor's Count" :: Visitor's Count" /></p>
-  
-<div>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">  
+
+<h2 align="center">Comeback anytime!</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">  
 </div>
 
