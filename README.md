@@ -33,7 +33,7 @@
   <img alt="Formik" src="https://img.shields.io/badge/Formik-grey?style=for-the-badge">
   <img alt="Yup" src="https://img.shields.io/badge/Yup-red?style=for-the-badge">
   <img alt="DayJS" src="https://img.shields.io/badge/Day.JS-c75700?style=for-the-badge">
-  <img alt="BEM Methodology" src="https://img.shields.io/badge/BEM--Methodology-272727?style=for-the-badge">
+  <img alt="BEM Methodology" src="https://img.shields.io/badge/BEM--Methodology-blue?style=for-the-badge">
 </div>
 
 <br>
