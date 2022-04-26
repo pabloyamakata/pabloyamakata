@@ -28,7 +28,7 @@
   <img alt="Chart-JS" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
 <div align="center">
-  <img alt="ScrollRevealJS" src="https://img.shields.io/badge/ScrollReveal.JS-blue?style=for-the-badge">
+  <img alt="ScrollRevealJS" src="https://img.shields.io/badge/Scroll--Reveal.JS-218a3d?style=for-the-badge">
   <img alt="Axios" src="https://img.shields.io/badge/Axios-blue?style=for-the-badge">
   <img alt="Formik" src="https://img.shields.io/badge/Formik-grey?style=for-the-badge">
   <img alt="Yup" src="https://img.shields.io/badge/Yup-red?style=for-the-badge">
