@@ -46,9 +46,7 @@
 
 <br>
 
-<h2 align="center">My Repos</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend">
+<h2 align="center">My Repos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend)](https://github.com/pabloyamakata/bug-tracking-system-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public)](https://github.com/pabloyamakata/bug-tracking-system-backend-public)
