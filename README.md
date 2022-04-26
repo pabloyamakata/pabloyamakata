@@ -34,7 +34,7 @@
 
 <div align="center">
 <img height=230 width=550 src="https://github-readme-stats.vercel.app/api?username=pabloyamakata&show_icons=true&theme=tokyonight">  
-<img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&layout=compact">  
+<img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&layout=compact">  
 </div>
 
 <br>
