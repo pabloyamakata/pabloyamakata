@@ -48,9 +48,12 @@
 
 <h2 align="center">My Repos</h2>
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend)](https://github.com/pabloyamakata/bug-tracking-system-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public)](https://github.com/pabloyamakata/bug-tracking-system-backend-public)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app)](https://github.com/pabloyamakata/weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano)](https://github.com/pabloyamakata/artesano)
 
 <br>
 
