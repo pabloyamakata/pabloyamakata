@@ -48,10 +48,20 @@
 
 <h2 align="center">Some of my Repos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend)](https://github.com/pabloyamakata/bug-tracking-system-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public)](https://github.com/pabloyamakata/bug-tracking-system-backend-public)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app)](https://github.com/pabloyamakata/weather-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano)](https://github.com/pabloyamakata/artesano)
+<div align="center">
+  <a href="https://github.com/pabloyamakata/bug-tracking-system-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend"/>
+  </a>
+  <a href="https://github.com/pabloyamakata/bug-tracking-system-backend-public">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public"/>
+  </a>
+  <a href="https://github.com/pabloyamakata/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app"/>
+  </a>
+  <a href="https://github.com/pabloyamakata/artesano">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano"/>
+  </a>
+</div>
 
 <br>
 
