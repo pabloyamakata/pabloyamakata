@@ -46,6 +46,14 @@
 
 <br>
 
+<h2 align="center">My Repos</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend)](https://github.com/pabloyamakata/bug-tracking-system-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public)](https://github.com/pabloyamakata/bug-tracking-system-backend-public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app)](https://github.com/pabloyamakata/weather-app)
+
+<br>
+
 <h2 align="center">You can reach me at... <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <div align="center">
