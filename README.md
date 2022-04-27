@@ -39,27 +39,52 @@
 <br>
 
 <h2 align="center">Top Langs :man_technologist:</h2>
+<!-- Dark mode only -->
+<div align="center">
+  <a href="https://github.com/pabloyamakata#gh-dark-mode-only">
+    <img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&bg_color=1F222E&title_color=58A6FF&text_color=888&hide_border=true&layout=compact#gh-dark-mode-only"> 
+  </a> 
+</div>
 
-<div align="center"> 
-<img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&bg_color=1F222E&title_color=58A6FF&text_color=888&hide_border=true&layout=compact">  
+<!-- Light mode only -->
+<div align="center">
+  <a href="https://github.com/pabloyamakata#gh-light-mode-only">
+    <img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&layout=compact#gh-light-mode-only"> 
+  </a> 
 </div>
 
 <br>
 
 <h2 align="center">Some of my Repositories <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-
+<!-- Dark mode only -->
 <div align="center">
   <a href="https://github.com/pabloyamakata/bug-tracking-system-frontend#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/pabloyamakata/bug-tracking-system-backend-public#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/pabloyamakata/weather-app#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/pabloyamakata/artesano#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+  </a>
+</div>
+
+<!-- Light mode only -->
+<div align="center">
+  <a href="https://github.com/pabloyamakata/bug-tracking-system-frontend#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend#gh-light-mode-only"/>
+  </a>
+  <a href="https://github.com/pabloyamakata/bug-tracking-system-backend-public#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public#gh-light-mode-only"/>
+  </a>
+  <a href="https://github.com/pabloyamakata/weather-app#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app#gh-light-mode-only"/>
+  </a>
+  <a href="https://github.com/pabloyamakata/artesano#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano#gh-light-mode-only"/>
   </a>
 </div>
 
