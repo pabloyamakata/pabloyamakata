@@ -28,12 +28,12 @@
   <img alt="Chart-JS" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
 <div align="center">
-  <img alt="ScrollRevealJS" src="https://img.shields.io/badge/Scroll--Reveal.JS-218A3D?style=for-the-badge">
-  <img alt="Axios" src="https://img.shields.io/badge/Axios-blue?style=for-the-badge">
-  <img alt="Formik" src="https://img.shields.io/badge/Formik-grey?style=for-the-badge">
-  <img alt="Yup" src="https://img.shields.io/badge/Yup-red?style=for-the-badge">
-  <img alt="DayJS" src="https://img.shields.io/badge/Day.JS-C75700?style=for-the-badge">
-  <img alt="BEM Methodology" src="https://img.shields.io/badge/BEM--Methodology-000?style=for-the-badge">
+  <img alt="ScrollRevealJS" src="https://custom-icon-badges.herokuapp.com/badge/Scroll--Reveal.JS-218A3D?logo=paintbrush&logoColor=white&style=for-the-badge">
+  <img alt="Axios" src="https://custom-icon-badges.herokuapp.com/badge/Axios-blue?logo=comment-discussion&logoColor=white&style=for-the-badge">
+  <img alt="Formik" src="https://custom-icon-badges.herokuapp.com/badge/Formik-grey?logo=package&logoColor=white&style=for-the-badge">
+  <img alt="Yup" src="https://custom-icon-badges.herokuapp.com/badge/Yup-red?logo=check-circle-fill&logoColor=white&style=for-the-badge">
+  <img alt="DayJS" src="https://custom-icon-badges.herokuapp.com/badge/Day.JS-C75700?logo=clock&logoColor=white&style=for-the-badge">
+  <img alt="BEM Methodology" src="https://custom-icon-badges.herokuapp.com/badge/BEM--Methodology-000?logo=bold&logoColor=white&style=for-the-badge">
 </div>
 
 <br>
