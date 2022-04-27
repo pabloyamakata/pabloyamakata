@@ -42,7 +42,7 @@
 <!-- Dark mode only -->
 <div align="center">
   <a href="https://github.com/pabloyamakata#gh-dark-mode-only">
-    <img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&bg_color=1F222E&title_color=58A6FF&text_color=888&hide_border=true&layout=compact#gh-dark-mode-only"> 
+    <img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&bg_color=1F222E&title_color=58A6FF&text_color=DDDDDD&hide_border=true&layout=compact#gh-dark-mode-only"> 
   </a> 
 </div>
 
@@ -59,16 +59,16 @@
 <!-- Dark mode only -->
 <div align="center">
   <a href="https://github.com/pabloyamakata/bug-tracking-system-frontend#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=DDDDDD&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/pabloyamakata/bug-tracking-system-backend-public#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=DDDDDD&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/pabloyamakata/weather-app#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=DDDDDD&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/pabloyamakata/artesano#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=EEEEEE&hide_border=true&show_icons=false#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=DDDDDD&hide_border=true&show_icons=false#gh-dark-mode-only"/>
   </a>
 </div>
 
