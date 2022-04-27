@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+my+GitHub!!;I'm+a+Full+Stack+Developer...;and+a+continuous+learner+:)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects%20Daughter&color=F75C7E&size=30&lines=Welcome%20to%20my%20GitHub!;I'm%20a%20Full%20Stack%20Developer...;always%20learning%20new%20things%20:)">
 </div>
 
 <br>
@@ -28,12 +28,12 @@
   <img alt="Chart-JS" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
 <div align="center">
-  <img alt="ScrollRevealJS" src="https://img.shields.io/badge/Scroll--Reveal.JS-218a3d?style=for-the-badge">
+  <img alt="ScrollRevealJS" src="https://img.shields.io/badge/Scroll--Reveal.JS-218A3D?style=for-the-badge">
   <img alt="Axios" src="https://img.shields.io/badge/Axios-blue?style=for-the-badge">
   <img alt="Formik" src="https://img.shields.io/badge/Formik-grey?style=for-the-badge">
   <img alt="Yup" src="https://img.shields.io/badge/Yup-red?style=for-the-badge">
-  <img alt="DayJS" src="https://img.shields.io/badge/Day.JS-c75700?style=for-the-badge">
-  <img alt="BEM Methodology" src="https://img.shields.io/badge/BEM--Methodology-563d7c?style=for-the-badge">
+  <img alt="DayJS" src="https://img.shields.io/badge/Day.JS-C75700?style=for-the-badge">
+  <img alt="BEM Methodology" src="https://img.shields.io/badge/BEM--Methodology-000?style=for-the-badge">
 </div>
 
 <br>
@@ -41,27 +41,33 @@
 <h2 align="center">Top Langs :man_technologist:</h2>
 
 <div align="center"> 
-<img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&layout=compact">  
+<img height=230 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&bg_color=1F222E&title_color=58A6FF&text_color=888&hide_border=true&layout=compact">  
 </div>
 
 <br>
 
-<h2 align="center">Some of my Repos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h2 align="center">Some of my Repositories <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 <div align="center">
   <a href="https://github.com/pabloyamakata/bug-tracking-system-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-frontend&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/pabloyamakata/bug-tracking-system-backend-public">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=bug-tracking-system-backend-public&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/pabloyamakata/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=weather-app&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/pabloyamakata/artesano">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloyamakata&repo=artesano&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&text_color=888&hide_border=true&show_icons=false"/>
   </a>
 </div>
+
+<br>
+
+<p align=center>
+  <a href="https://github.com/pabloyamakata?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 <br>
 
