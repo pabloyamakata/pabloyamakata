@@ -99,8 +99,8 @@
 <h2 align="center">You can reach me at... <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <div align="center">
-<a href="https://www.facebook.com/pabloyamakata/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/pabloyamakata/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
