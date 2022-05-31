@@ -99,7 +99,7 @@
 <h2 align="center">You can reach me at... <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <div align="center">
-<a href="#">
+<a href="https://discord.com/users/825466311542046761">
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/pabloyamakata/">
