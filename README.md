@@ -1,18 +1,14 @@
 <div align="center">
-<h1 align="center">Welcome to <a href="https://github.com/pabloyamakata">Pablo Yamakata</a>'s Profile 👋</h1>
+<h1 align="center">Welcome to <a href="https://github.com/pabloyamakata">Pablo Yamakata</a>'s Profile <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="48"></h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects%20Daughter&color=F75C7E&size=30&lines=Welcome%20to%20my%20GitHub!;I'm%20a%20Full%20Stack%20Developer...;always%20learning%20new%20things%20:)">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 </div>
 
 <br>
 
-<h2 align="center">My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
+<h2 align="center">My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"></h2>
                                                                                                                                   
 <div align="center">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -100,7 +96,7 @@
 
 <br>
 
-<h2 align="center">You can reach me at... <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align="center">You can reach me at... <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2>
 
 <div align="center">
 <a href="https://discord.com/users/825466311542046761">
