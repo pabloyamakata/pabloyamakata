@@ -1,5 +1,9 @@
 <div align="center">
-<h1 align="center">Welcome to <a href="https://github.com/pabloyamakata">Pablo Yamakata</a>'s Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px></h1>
+<h1 align="center">Welcome to <a href="https://github.com/pabloyamakata">Pablo Yamakata</a>'s Profile 👋</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
 </div>
 
 <div align="center">
