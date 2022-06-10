@@ -38,7 +38,7 @@
 
 <br>
 
-<h2 align="center">My Stats:man_technologist:</h2>
+<h2 align="center">My Stats :man_technologist:</h2>
 <!-- Dark mode only -->
 <div align="center">
   <a href="https://github.com/pabloyamakata#gh-dark-mode-only">
@@ -57,7 +57,7 @@
 <!-- Light mode only -->
 <div align="center">
   <a href="https://github.com/pabloyamakata#gh-light-mode-only">
-    <img width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&hide_title=true&layout=compact#gh-light-mode-only"> 
+    <img width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloyamakata&langs_count=6&hide=scss&layout=compact#gh-light-mode-only"> 
   </a> 
 </div>
 
